@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/ronyaku-gojusshu-utaawase",
  "yomi": "ろうにゃくごじっしゅうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合（二百五十番）",
+  "era": "建仁元年（1201）2月",
+  "author": "主催 後鳥羽院",
+  "desc": "後鳥羽院が歌人を老と若の二方に分け、各人が春・夏・秋・冬・雑の五十首を詠んで二百五十番に番えた歌合。老の方に忠良・慈円・定家・家隆・寂蓮、若の方に院・良経・宮内卿・越前・雅経が並ぶ。判詞はなく勝負のみ付く。"
+ },
  "editions": [
   {
    "pid": "1879502",
